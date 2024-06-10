@@ -1,8 +1,7 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/h74384xxffhpkh1w?svg=true)](https://ci.appveyor.com/project/ValentinSilivankov/ahj-code_events)
+[![Build status](https://ci.appveyor.com/api/projects/status/wpvrmcc9sex777x2?svg=true)](https://ci.appveyor.com/project/ValentinSilivankov/ahj-code-events)
 
-[Github-Pages](https://valentinsilivankov.github.io/ahj-code_events/)
 
 ---
 
